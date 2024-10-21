@@ -12,7 +12,7 @@ document.getElementById('start-button').addEventListener('click', function () {
     // Check if this is the 25th click
     if (clickCount === 25) {
         // Redirect to the main screen
-        window.location.href = 'index.html';
+        window.location.href = 'leads.html';
         return;
     }
 
